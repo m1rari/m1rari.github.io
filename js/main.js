@@ -296,7 +296,7 @@ jQuery(document).ready(function($) {
 	siteSticky();
 
 	// navigation
-
+ 
   OnePageNavigation();
 
   var siteScroll = function() {
